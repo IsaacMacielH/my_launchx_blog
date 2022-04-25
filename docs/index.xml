@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Isaac</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://isaacmacielh.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://isaacmacielh.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://isaacmacielh.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://isaacmacielh.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>!Hola¡
+Lo que he aprendido en Launch X hasta el momento:
+Onboarding  Usamos python con jupyter notebook Aprendí lo básico de Git y creé mi cuenta en GitHub  FrontEnd  Recordé los conocimientos que tenía de HTML y CSS Aprendí cosas nuevas de diseño con CSS  </description>
+    </item>
+    
     <item>
       <title>La cultura de un Desarrolador de software</title>
       <link>https://isaacmacielh.github.io/my_launchx_blog/posts/intro/</link>
